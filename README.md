@@ -1,131 +1,119 @@
+# Zero to AI
 
-1. python
+---
 
+## 1. Python Fundamentals
 
-do you know any python?
+### Do you know Python?
 
+<details>
+<summary><b>No - Click to see learning resources</b></summary>
 
-if no:
+#### Choose your learning style:
 
-prefer reading + hands-on learning:
+**Reading + Hands-On Learning**
+- Complete all tutorials: [LearnPython.org](https://www.learnpython.org/)
 
-Do all tutorials on
-https://www.learnpython.org/
+**Gamified Learning**
+- [Thinking in Python](https://brilliant.org/courses/thinking-in-python/)
+- [Computer Science Algorithms](https://brilliant.org/courses/computer-science-algorithms/?from_llp=computer-science)
+- [How LLMs Work](https://brilliant.org/courses/how-llms-work/)
 
+**Video + Hands-On**
+- [Codecademy: Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+  
+  **OR**
+  
+- [DataCamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-prefer gamified learning:
+<details>
+<summary><b>Optional: Intermediate Python</b></summary>
 
-https://brilliant.org/courses/thinking-in-python/
+- [DataCamp: Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
 
+</details>
 
-https://brilliant.org/courses/computer-science-algorithms/?from_llp=computer-science
 
+### Learn Google Colab
+- **Simple:** [Quick Colab Tutorial](https://www.youtube.com/watch?v=rsBiVxzmhG0)
+- **Complete:** [Comprehensive Colab Guide](https://www.youtube.com/watch?v=PytsxNfR8GI)
 
-https://brilliant.org/courses/how-llms-work/
+</details>
 
+<details>
+<summary><b>Yes - Skip ahead if you know Python</b></summary>
+</details>
 
-prefer video + hands-on:
+---
 
-https://www.codecademy.com/learn/learn-python-3
+## 2. Basic GenAI & ML Concepts
 
-OR
+### Machine Learning
+- [Introduction to ML](https://developers.google.com/machine-learning/intro-to-ml)
+- [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
-https://www.datacamp.com/courses/intro-to-python-for-data-science
+### Hands-On Exercise
+- Build an ML app: [Tutorial Video](https://www.youtube.com/watch?v=LJ6DcLGQ4vY)
+- Reference: [ML Glossary](https://developers.google.com/machine-learning/glossary/fundamentals)
 
-optional:
-https://www.datacamp.com/courses/intermediate-python
+<details>
+<summary><b>Optional: Advanced ML Topics</b></summary>
 
-if know python:
-skip the above
+- [Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
+- [Clustering](https://developers.google.com/machine-learning/clustering)
+- [Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 
+</details>
 
-Learn google colab:
-Simple: https://www.youtube.com/watch?v=rsBiVxzmhG0
-Complete: https://www.youtube.com/watch?v=PytsxNfR8GI
+### Generative AI
+- [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 
+---
 
-2. basic GenAI and ML concepts
+## 3. Building AI Apps (Simple)
 
-ML:
+### AI with Python
+- [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+- Get API key: [Gemini API Setup](https://www.youtube.com/watch?v=qfWpPEgea2A)
+- [RAG Course](https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/)
+- [Vector Databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
 
-https://developers.google.com/machine-learning/intro-to-ml
+### Streamlit Apps
+- **LLM Chat app with hyperparam tuning:** [Tutorial](https://www.youtube.com/watch?v=zsQ7EN10zj8)
+  - *(You can replace Replicate with OpenAI or Gemini SDK)*
+- **Search & recommendation system:** [Tutorial](https://www.youtube.com/watch?v=SQD-aWlhqvM)
 
-https://developers.google.com/machine-learning/crash-course
+- **Deployment:** [Deploy Your App](https://www.youtube.com/watch?v=HKoOBiAaHGg)
 
-https://developers.google.com/machine-learning/guides/rules-of-ml
+---
 
+## 4. Prompt Engineering
 
-Hands-on exercise - build an ML app:
+- [Understanding Prompt Engineering](https://www.datacamp.com/courses/understanding-prompt-engineering)
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-https://www.youtube.com/watch?v=LJ6DcLGQ4vY
+---
 
-Reference:
-https://developers.google.com/machine-learning/glossary/fundamentals
+## 5. LLMs & AI Agents (Intermediate)
 
-Optional:
+### AI Agents
+- [Agentic AI Course](https://www.deeplearning.ai/courses/agentic-ai/)
+- [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 
-https://developers.google.com/machine-learning/recommendation
+### Open Source LLMs
+- [Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
 
-https://developers.google.com/machine-learning/clustering
+---
 
-https://developers.google.com/machine-learning/practica/image-classification
+## 6. How LLMs Actually Work
 
+- [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
 
-GenAI:
+---
 
-https://www.deeplearning.ai/courses/generative-ai-for-everyone/
+## 7. Advanced Topics
 
+- [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 
-3. how to use LLMs and build AI apps (simple)
-
-https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
-
-Get Gemini API key: https://www.youtube.com/watch?v=qfWpPEgea2A
-
-https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/
-
-https://www.deeplearning.ai/short-courses/building-applications-vector-databases/
-
-
-
-Streamlit apps:
-
-LLM Chat app with hyperparam tuning: https://www.youtube.com/watch?v=zsQ7EN10zj8
-(you can replace Replicate with the OpenAI or Gemini SDK)
-
-Search and recommendation system: https://www.youtube.com/watch?v=SQD-aWlhqvM
-
-
-Deployment: https://www.youtube.com/watch?v=HKoOBiAaHGg
-
-
-4. prompt engineering
-
-https://www.datacamp.com/courses/understanding-prompt-engineering
-
-https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
-
-
-5. how to use LLMs and build AI agents (intemediate)
-
-
-LLMS:
-
-https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/
-
-
-AI Agents:
-
-https://www.deeplearning.ai/courses/agentic-ai/
-
-https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/
-
-
-
-5. how LLMs actually work
-
-https://www.deeplearning.ai/short-courses/how-transformer-llms-work/
-
-6. More advanced topics
-
-https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/
+---
