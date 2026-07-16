@@ -1,52 +1,28 @@
 # Zero to AI
 
+Follow this path in the order given below (it goes from easy to hard). Do not skip the Python course.
+
 ---
 
 ## 1. Python Fundamentals
 
-### Do you know Python?
+Follow this path:
+https://python.datalumina.com/?dub_id=P7HVhSD4JKII00C6
 
-<details>
-<summary><b>No - Click to see learning resources</b></summary>
-
-#### Choose your learning style:
-
-**Reading + Hands-On Learning**
-- Complete all tutorials: [LearnPython.org](https://www.learnpython.org/)
-
-**Gamified Learning**
-- [Thinking in Python](https://brilliant.org/courses/thinking-in-python/)
-- [Computer Science Algorithms](https://brilliant.org/courses/computer-science-algorithms/?from_llp=computer-science)
-- [How LLMs Work](https://brilliant.org/courses/how-llms-work/)
-
-**Video + Hands-On**
-- [Codecademy: Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-  
-  **OR**
-  
-- [DataCamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-
-<details>
-<summary><b>Optional: Intermediate Python</b></summary>
-
-- [DataCamp: Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
-
-</details>
+While watching these vdieos:
+https://www.youtube.com/watch?v=ygXn5nV5qFc&list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG
 
 
 ### Learn Google Colab
 - **Simple:** [Quick Colab Tutorial](https://www.youtube.com/watch?v=rsBiVxzmhG0)
 - **Complete:** [Comprehensive Colab Guide](https://www.youtube.com/watch?v=PytsxNfR8GI)
 
-</details>
-
-<details>
-<summary><b>Yes - Skip ahead if you know Python</b></summary>
-</details>
-
 ---
 
 ## 2. Basic GenAI & ML Concepts
+
+<details>
+<summary><b>Optional: ML Topics</b></summary>
 
 ### Machine Learning
 - [Introduction to ML](https://developers.google.com/machine-learning/intro-to-ml)
@@ -57,13 +33,6 @@
 - Build an ML app: [Tutorial Video](https://www.youtube.com/watch?v=LJ6DcLGQ4vY)
 - Reference: [ML Glossary](https://developers.google.com/machine-learning/glossary/fundamentals)
 
-<details>
-<summary><b>Optional: Advanced ML Topics</b></summary>
-
-- [Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
-- [Clustering](https://developers.google.com/machine-learning/clustering)
-- [Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
-
 </details>
 
 ### Generative AI
@@ -73,7 +42,25 @@
 
 ## 3. Building AI Apps (Simple)
 
-### AI with Python
+### Langchain
+
+- [Langchain Youtube Playlist](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
+
+
+### Langgraph
+
+- [Langgraph Youtube Playlist](https://www.youtube.com/watch?v=vVGXPRjtAJE&list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO)
+
+
+### RAG
+
+- [RAG Youtube Playlist](https://www.youtube.com/watch?v=fZM3oX4xEyg&list=PLZoTAELRMXVM8Pf4U67L4UuDRgV4TNX9D)
+
+### MCP
+
+- [MCP Youtube Tutorial](https://www.youtube.com/watch?v=MDBG2MOp4Go)
+
+### More: AI with Python (Optional but recommended)
 - [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
 - Get API key: [Gemini API Setup](https://www.youtube.com/watch?v=qfWpPEgea2A)
 - [RAG Course](https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/)
@@ -106,19 +93,7 @@
 
 ---
 
-## 6. How LLMs Actually Work
-
-- [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
-
----
-
-## 7. Advanced AI Topics
-
-- [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
-
----
-
-More Python
+## More Python
 
 - Error handling: https://www.youtube.com/watch?v=MX-14Cb8fTE
 
@@ -129,3 +104,11 @@ More Python
 - FastAPI: https://www.youtube.com/watch?v=iWS9ogMPOI0
 
 - RAGAS: https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/
+
+---
+
+## Advanced AI Topics
+
+- [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
+
+- [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
